@@ -1,0 +1,6 @@
+P001,i Phone 7+,80,45 000.00,i Phone
+P002,Mac Book 8,10,780 000.00,Mac
+P003,i Phone 13,7,350 000.00,i Phone
+P004,Air Pods 5,90,77 000.00,Air Pods
+P005,TV 8,74,650 000.00,i Watch.Apple TV
+P006,TV 10,78,200 000.00,i Watch.Apple TV
